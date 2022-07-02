@@ -2,9 +2,9 @@
 #include <string.h>
 /**
  * main - Entry point
- * Description: programming in c
+ * Description: The programmer's life quote
  * Return: Always 0 (success)
- */
+*/
 int main(void)
 {
 	char str1[52];
@@ -14,8 +14,4 @@ int main(void)
 	puts(str1);
 
 	return (0);
-
 }
-
-
-
